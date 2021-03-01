@@ -1,6 +1,6 @@
 # flutter_calculator_app
 
-![](images/Screenshot_1614565954.png?raw=true)
+![](images/Screenshot_1614565954.png=250x)
 
 A new Flutter project.
 
